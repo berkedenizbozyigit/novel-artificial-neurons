@@ -39,6 +39,12 @@ Traditional neurons use **sum aggregation** (equivalent to mean average). We gen
 
 *The 3-Way Hybrid shows best performance, especially under noisy conditions*
 
+## 📄 Full Dissertation
+
+The complete dissertation is available here:
+https://drive.google.com/file/d/1Fmmc6ZvoUDFI9vBJtXSbokAay0W25JAT/view?usp=sharing
+
+
 ## 🚀 Quick Start
 
 ### Installation
