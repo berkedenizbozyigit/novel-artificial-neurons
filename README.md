@@ -8,7 +8,7 @@
 > University of York, Department of Computer Science  
 > September 2025
 
-## 📖 Overview
+## Overview
 
 This repository contains the implementation and evaluation of novel artificial neuron architectures that replace traditional weighted sum aggregation with learnable, nonlinear aggregation functions. The project explores two main approaches:
 
@@ -23,13 +23,13 @@ Traditional neurons use **sum aggregation** (equivalent to mean average). We gen
 - Using **hybrid architectures** that blend novel and traditional paths
 - Ensuring **numerical stability** through careful implementation
 
-## 🎯 Research Questions
+## Research Questions
 
 - Can alternative aggregation functions improve neural network performance?
 - How do novel neurons behave under noisy conditions?
 - What aggregation strategies do networks learn during training?
 
-## 📊 Results Summary
+## Results Summary
 
 | Model | Standard CIFAR-10 | Noisy CIFAR-10 |
 |-------|------------------|----------------|
@@ -39,13 +39,13 @@ Traditional neurons use **sum aggregation** (equivalent to mean average). We gen
 
 *The 3-Way Hybrid shows best performance, especially under noisy conditions*
 
-## 📄 Full Dissertation
+## Full Dissertation
 
 The complete dissertation is available here:
 https://drive.google.com/file/d/1Fmmc6ZvoUDFI9vBJtXSbokAay0W25JAT/view?usp=sharing
 
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 ```bash
@@ -118,7 +118,7 @@ Benchmark computational efficiency
 Berke Deniz Bozyigit
 MSc Artificial Intelligence
 University of York
-rvp516@york.ac.uk
+berkebzt@gmail.com
 
 🙏 Acknowledgements
 
