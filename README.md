@@ -115,9 +115,13 @@ Add theoretical analysis of gradient flow
 Benchmark computational efficiency
 
 📧 Contact
+
 Berke Deniz Bozyigit
+
 MSc Artificial Intelligence
+
 University of York
+
 berkebzt@gmail.com
 
 🙏 Acknowledgements
